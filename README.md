@@ -23,3 +23,13 @@
 
 # Kết quả hiển thị trong file csv
 ![](20240527151501.png)
+
+# Thay đổi cấu hình số lượng người dùng ảo: 
+- Thử tăng số lượng người dùng lên: 
+![](20240527153103.png)
+- Kết quả:
+![](20240527153132.png)
+- Theo dõi trong csv:
+![](20240527153158.png)
+
+# Kết luận: 
