@@ -1,0 +1,24 @@
+import 'dart:collection';
+
+//Queue
+var q = Queue();
+var test = ['x', 'y', 'z'];
+var q1 = Queue<dynamic>();
+
+void main(){
+  print(q.length);
+  
+  q.add('A');
+  q.add("B");
+  
+  q.addFirst('C');
+  q.addLast('D');
+  q.addAll(test);
+  
+  q1.addAll(test);
+  
+  q1.forEach((i){
+    print(i);
+  });
+  
+}
